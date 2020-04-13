@@ -1,2 +1,2 @@
 # MavenSeleniumKeysTyping
-Maven Selenium Keys Typing
+Maven Selenium Keys Typing + backspace
